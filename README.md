@@ -19,6 +19,11 @@ Features
 
 ## Instructions
 
+#### Install Dependencies
+```
+npm install
+```
+
 #### Start
 ```
 npm run dev
