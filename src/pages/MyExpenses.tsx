@@ -10,6 +10,7 @@ export function ListMyExpenses() {
         console.log(JSON.stringify(myExpenses))
     }, [myExpenses])
 
+    
     return (
         <Column style={{ height: "100%", width: "100%", justifyContent: "flex-start", alignItems: "flex-start" }}>
             <HeaderH2 style={{ padding: "1em", width: "100%", justifyContent: "flex-start" }}>My Bills</HeaderH2>
